@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^8.6.0",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.4"
+  },
+  "dependencies": {
+    "clear": "^0.1.0",
+    "commander": "^10.0.0",
+    "deepmerge-ts": "^4.3.0"
+  }
+}
